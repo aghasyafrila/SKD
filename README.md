@@ -1,3 +1,5 @@
+# SKD Tugas 6 (Playfair Chiper) ada di folder SKD_TID_V3920002_AghaSyafrila6
+Penjelasan di samping source code
 # SKD Tugas 5 (Affine Chiper) ada di folder SKD_TID_V3920002_AghaSyafrila5
 Penjelasan di samping source code
 # SKD Tugas 4 (Vigenere Chiper)
